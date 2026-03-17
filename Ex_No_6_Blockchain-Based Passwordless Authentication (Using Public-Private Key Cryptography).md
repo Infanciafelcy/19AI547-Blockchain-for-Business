@@ -1,4 +1,6 @@
 # Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
+## Name : Infancia Felcy P
+## Reg no: 212223040067
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
 
@@ -101,6 +103,7 @@ Users sign a challenge with their private key for authentication.
 
 
 The smart contract verifies signatures to confirm identity.
+![25b3cca2-367c-473e-a9ad-1978671acd33](https://github.com/user-attachments/assets/9707a81d-9060-4617-b3a4-1d38ac80d1fa)
 
 
 
